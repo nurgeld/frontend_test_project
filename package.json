@@ -1,0 +1,12 @@
+{
+  "name": "brain-games",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "test project",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nurgeldy",
+  "license": "ISC"
+}
