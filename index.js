@@ -1,6 +1,3 @@
-const sum = (a, b) => a + b;
+import _ from "lodash";
 
-const sum2 = (a, b) => {
-    return a + b
-}
-
+console.log(_.last(['one', 'two']));
